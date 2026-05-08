@@ -118,7 +118,7 @@ Designed optimized star-schema models and analytics-ready datasets.
 ---
 -->
 
-##### ⭐“Turning raw data into meaningful insights through scalable engineering.”
+#### ⭐“Turning raw data into meaningful insights through scalable engineering.”
 
 
 
