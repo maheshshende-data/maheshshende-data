@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I' am Mahesh</h1>
+<h1 align="center"> Hi <𝚍𝚎𝚟𝚜/> I' am Mahesh</h1>
 <h3 align="center">Data Engineer | Databricks | PySpark | Azure | SQL | Big Data | Lakehouse & Governance</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@ Building scalable data pipelines and cloud analytics solutions
 
 ## 🚀 About Me
 
-- 💼 Data Engineer with 2+ years of experience at **Quanix IT**
+- 💼 Data Engineer with 3 years of experience at **Quanix IT**
 - ⚡ Specialized in **Databricks, PySpark, SQL & Azure Cloud**
 - 🔥 Experienced in building scalable **ETL/ELT pipelines**
 - ☁️ Working with **Delta Lake, Data Warehousing & Big Data**
